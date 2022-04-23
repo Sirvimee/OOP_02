@@ -99,7 +99,6 @@
             this.vastus.Name = "vastus";
             this.vastus.Size = new System.Drawing.Size(313, 58);
             this.vastus.TabIndex = 5;
-            this.vastus.Text = "label1";
             this.vastus.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // btn_liida
